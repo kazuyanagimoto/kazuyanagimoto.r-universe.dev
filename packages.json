@@ -6,5 +6,9 @@
     {
         "package": "unitdid",
         "url": "https://github.com/kazuyanagimoto/unitdid"
+    },
+    {
+        "package": "typstcv",
+        "url": "https://github.com/kazuyanagimoto/typstcv"
     }
 ]
